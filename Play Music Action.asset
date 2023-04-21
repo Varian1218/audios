@@ -9,9 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 719d362e0c92472bb0baf039c4aff159, type: 3}
-  m_Name: MusicBuilder
+  m_Script: {fileID: 11500000, guid: 3c32c47932bf4b21a18f99b7c90801a9, type: 3}
+  m_Name: Play Music Action
   m_EditorClassIdentifier: 
-  dontDestroyOnLoad: 1
-  loop: 1
-  mixerGroup: {fileID: 243581543562908448, guid: df1cf8c000e68e2489c6f1a376410d9b, type: 2}
