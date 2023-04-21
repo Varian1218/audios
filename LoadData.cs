@@ -8,7 +8,7 @@ namespace Audios
     [Serializable]
     public struct LoadData
     {
-        public ObjectReference<IPlayClipAction> action;
+        public ScriptableObjectPlayClipAction action;
         public ObjectReference<IEnumerable<AudioClip>> clips;
         public AudioSource source;
     }
