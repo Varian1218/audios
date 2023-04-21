@@ -1,0 +1,16 @@
+{
+    "name": "Audios.Editors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:50730556b1d1f004d85add588160ccfc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
